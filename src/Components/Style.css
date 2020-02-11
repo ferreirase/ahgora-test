@@ -1,0 +1,19 @@
+.containerInput{
+  position: relative;
+  top: -60px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.containerVideos{
+  position: relative;
+  top: 100px;
+  text-align: center;
+}
+
+.containerButtons{
+  position: relative;
+  display: inline-block;
+  background-color: red;
+  float: left;
+}
